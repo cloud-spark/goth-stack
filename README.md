@@ -1,6 +1,8 @@
 # goth-stack
 Go Templ HTMX
 
+![goth-stack](goth-stack-logo.png)
+
 ![go](https://go.dev/images/gophers/motorcycle.svg)
 
 ![templ](https://templ.guide/img/logo.svg)
